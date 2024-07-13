@@ -14,4 +14,4 @@ Create a table one for student. In my case the table name is student
 Also, I have used XAAMP server and for using PHP My Admin, my username was root and password was"". In case you have a different one, edit it in the db.php file.
 
 
-*the website is not complete.functions like admin and admin privileges will to be added later.
+*the website is not complete.functions like admin and admin privileges will be added later.
