@@ -7,6 +7,7 @@ Students can
 1. Insert student records,
 2. Update student records,
 3. Delete student records.
+
 I created MySql database in PHP My Admin and hence if you wish to use the code, create a database in my case,
 database name : student-management
 Create a table one for student. In my case the table name is student
